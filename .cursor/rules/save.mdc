@@ -1,5 +1,5 @@
 ---
-description: 我每次问题的时候，都需要讲结果按照 形如2025-06-26-[question title].md的格式存起来。 同时需要创建文件夹，按照天来归档，这样2025-06-25 这个question title就是我要咨询的问题
+description: 我每次问题的时候，都需要讲结果按照 形如2025-06-26-12-[question title].md的格式存起来。记住这个是日期+时间+问题 ，都是实时获取的。 同时需要创建文件夹，按照天来归档，这样2025-06-25 这个question title就是我要咨询的问题
 globs: 
 alwaysApply: false
 ---
