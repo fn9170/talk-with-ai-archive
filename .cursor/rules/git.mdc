@@ -1,6 +1,5 @@
 ---
-description: 
+description: 每次生成结果后，都直接提交git
 globs: 
-alwaysApply: true
+alwaysApply: false
 ---
-每次生成结果后，都直接提交git
