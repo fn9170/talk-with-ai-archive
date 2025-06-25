@@ -1,5 +1,5 @@
 ---
-description: 每次生成结果后，都直接提交git
+description: 每次生成结果后，都直接提交git,要git push不要仅仅本地保存
 globs: 
 alwaysApply: false
 ---
