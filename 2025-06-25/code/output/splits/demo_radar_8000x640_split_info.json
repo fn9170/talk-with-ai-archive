@@ -1,0 +1,210 @@
+{
+  "original_image": "demo_radar_8000x640.jpg",
+  "original_size": [
+    8000,
+    640
+  ],
+  "target_size": 640,
+  "overlap_ratio": 0.3,
+  "stride": 448,
+  "splits": [
+    {
+      "filename": "demo_radar_8000x640_split_000.jpg",
+      "position": [
+        0,
+        0
+      ],
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "filename": "demo_radar_8000x640_split_001.jpg",
+      "position": [
+        448,
+        0
+      ],
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "filename": "demo_radar_8000x640_split_002.jpg",
+      "position": [
+        896,
+        0
+      ],
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "filename": "demo_radar_8000x640_split_003.jpg",
+      "position": [
+        1344,
+        0
+      ],
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "filename": "demo_radar_8000x640_split_004.jpg",
+      "position": [
+        1792,
+        0
+      ],
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "filename": "demo_radar_8000x640_split_005.jpg",
+      "position": [
+        2240,
+        0
+      ],
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "filename": "demo_radar_8000x640_split_006.jpg",
+      "position": [
+        2688,
+        0
+      ],
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "filename": "demo_radar_8000x640_split_007.jpg",
+      "position": [
+        3136,
+        0
+      ],
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "filename": "demo_radar_8000x640_split_008.jpg",
+      "position": [
+        3584,
+        0
+      ],
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "filename": "demo_radar_8000x640_split_009.jpg",
+      "position": [
+        4032,
+        0
+      ],
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "filename": "demo_radar_8000x640_split_010.jpg",
+      "position": [
+        4480,
+        0
+      ],
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "filename": "demo_radar_8000x640_split_011.jpg",
+      "position": [
+        4928,
+        0
+      ],
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "filename": "demo_radar_8000x640_split_012.jpg",
+      "position": [
+        5376,
+        0
+      ],
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "filename": "demo_radar_8000x640_split_013.jpg",
+      "position": [
+        5824,
+        0
+      ],
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "filename": "demo_radar_8000x640_split_014.jpg",
+      "position": [
+        6272,
+        0
+      ],
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "filename": "demo_radar_8000x640_split_015.jpg",
+      "position": [
+        6720,
+        0
+      ],
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "filename": "demo_radar_8000x640_split_016.jpg",
+      "position": [
+        7168,
+        0
+      ],
+      "size": [
+        640,
+        640
+      ]
+    },
+    {
+      "filename": "demo_radar_8000x640_split_017.jpg",
+      "position": [
+        7360,
+        0
+      ],
+      "size": [
+        640,
+        640
+      ]
+    }
+  ]
+}
